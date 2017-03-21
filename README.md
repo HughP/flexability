@@ -6,4 +6,8 @@ In the process of making literacy materials for many indigenous languages it is 
 
 It occurs to me that we could define a workflow or a pipeline in which data would be extracted from dictionaries. This process would speed up the process not just for me in one language but for many people around the world. Here is a proposal:
 
+### Proposed technical workflow
 If we have a body chart in SVG format created with [Adobe Illustrator](https://www.adobe.com/Illustrator) or [Inkscape](https://inkscape.org/), then we could use the XML export from our Dictionary software (in this case [FLEx](http://software.sil.org/fieldworks/) using [Lift in XML](https://github.com/sillsdev/lift-standard)), and then use [XSLT](https://en.wikipedia.org/wiki/XSLT)([quick tutorial](https://www.w3schools.com/xml/xsl_intro.asp)) to transform the data in the XML to the receptacles in the SVG image.
+
+## Project contributions
+Project contributions are submitted under the MIT license, as indicated in this project's license.
