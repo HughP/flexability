@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- See http://code.google.com/p/lift-standard for more information on the format used here. -->
+<lift producer="SIL.FLEx 8.3.5.42803" version="0.13">
+<header>
+<ranges>
+<range id="dialect" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="etymology" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="grammatical-info" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="lexical-relation" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="note-type" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="paradigm" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="reversal-type" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="semantic-domain-ddp4" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="status" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="users" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="location" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<!-- The following ranges are produced by FieldWorks Language Explorer, and are not part of the LIFT standard. -->
+<range id="anthro-code" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="translation-type" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<!-- The parts of speech are duplicated in another range because derivational affixes require a "From" PartOfSpeech as well as a "To" PartOfSpeech. -->
+<range id="from-part-of-speech" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="morph-type" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="exception-feature" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="inflection-feature" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="inflection-feature-type" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+<range id="do-not-publish-in" href="file:///home/greenlantern/Additions to Wasta Linux/github-tools/flexability/flexability.lift-ranges"/>
+</ranges>
+<fields>
+<field tag="cv-pattern">
+<form lang="en"><text>This records the syllable pattern for a LexPronunciation in FieldWorks.</text></form>
+</field>
+<field tag="tone">
+<form lang="en"><text>This records the tone information for a LexPronunciation in FieldWorks.</text></form>
+</field>
+<field tag="comment">
+<form lang="en"><text>This records a comment (note) in a LexEtymology in FieldWorks.</text></form>
+</field>
+<field tag="import-residue">
+<form lang="en"><text>This records residue left over from importing a standard format file into FieldWorks (or LinguaLinks).</text></form>
+</field>
+<field tag="literal-meaning">
+<form lang="en"><text>This field is used to store a literal meaning of the entry.  Typically, this field is necessary only for a compound or an idiom where the meaning of the whole is different from the sum of its parts.</text></form>
+</field>
+<field tag="summary-definition">
+<form lang="en"><text>A summary definition (located at the entry level in the Entry pane) is a general definition summarizing all the senses of a primary entry. It has no theoretical value; its use is solely pragmatic.</text></form>
+</field>
+<field tag="scientific-name">
+<form lang="en"><text>This field stores the scientific name pertinent to the current sense.</text></form>
+</field>
+</fields>
+</header>
+<entry dateCreated="2017-03-22T03:38:14Z" dateModified="2017-03-22T03:43:17Z" id="Cuerpo_aaa2ee52-0c6c-4f10-b8d7-06981bcc0ca8" guid="aaa2ee52-0c6c-4f10-b8d7-06981bcc0ca8">
+<lexical-unit>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="es"><text>Cuerpo</text></form>
+</citation>
+<sense id="bc658ac7-27e0-4759-bd49-259dc4cc5cfc">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>Body</text></gloss>
+<trait name ="semantic-domain-ddp4" value="2.1 Body"/>
+</sense>
+</entry>
+<entry dateCreated="2017-03-22T03:38:31Z" dateModified="2017-03-22T03:43:17Z" id="Cabeza_2e179fe4-699d-4a96-93d3-c8feb409726a" guid="2e179fe4-699d-4a96-93d3-c8feb409726a">
+<lexical-unit>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="es"><text>Cabeza</text></form>
+</citation>
+<sense id="3cec935c-815d-4110-9dd6-36a095f5835f">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>head</text></gloss>
+<trait name ="semantic-domain-ddp4" value="2.1.1 Head"/>
+</sense>
+</entry>
+<entry dateCreated="2017-03-22T03:38:48Z" dateModified="2017-03-22T03:43:17Z" id="Ojo_eab57a65-44f3-4e62-ab2c-cc453c69dd2b" guid="eab57a65-44f3-4e62-ab2c-cc453c69dd2b">
+<lexical-unit>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="es"><text>Ojo</text></form>
+</citation>
+<sense id="c78ca950-c088-4268-a6a0-86646b2a1a38">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>eye</text></gloss>
+<trait name ="semantic-domain-ddp4" value="2.1.1.1 Eye"/>
+</sense>
+</entry>
+<entry dateCreated="2017-03-22T03:39:03Z" dateModified="2017-03-22T03:43:17Z" id="Oído_5886e1ce-d118-495f-8944-667c6cbeb649" guid="5886e1ce-d118-495f-8944-667c6cbeb649">
+<lexical-unit>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="es"><text>Oído</text></form>
+</citation>
+<sense id="5107294b-b5fd-46c1-81a0-d7375d1c8c9a">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>Ear</text></gloss>
+<trait name ="semantic-domain-ddp4" value="2.1.1.2 Ear"/>
+</sense>
+</entry>
+<entry dateCreated="2017-03-22T03:39:13Z" dateModified="2017-03-22T03:43:17Z" id="Nariz_6a050562-b49c-4aa5-b8e6-ff222de56d6f" guid="6a050562-b49c-4aa5-b8e6-ff222de56d6f">
+<lexical-unit>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="es"><text>Nariz</text></form>
+</citation>
+<sense id="9b60d05f-7f95-43a3-9b0c-561657ee867f">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>nose</text></gloss>
+<trait name ="semantic-domain-ddp4" value="2.1.1.3 Nose"/>
+</sense>
+</entry>
+<entry dateCreated="2017-03-22T03:39:27Z" dateModified="2017-03-22T03:43:17Z" id="Boca_3c2fb5a1-2a61-4128-84c4-a011d735f93c" guid="3c2fb5a1-2a61-4128-84c4-a011d735f93c">
+<lexical-unit>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="es"><text>Boca</text></form>
+</citation>
+<sense id="e5b3561b-fc3b-498c-9417-4903dc1d9505">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>mouth</text></gloss>
+<trait name ="semantic-domain-ddp4" value="2.1.1.4 Mouth"/>
+</sense>
+</entry>
+<entry dateCreated="2017-03-22T03:39:40Z" dateModified="2017-03-22T03:43:17Z" id="diente_f0cb929c-f8bd-4c09-bdcf-7bedba811310" guid="f0cb929c-f8bd-4c09-bdcf-7bedba811310">
+<lexical-unit>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="es"><text>diente</text></form>
+</citation>
+<sense id="1b6769ed-38fb-49ea-88d7-9ccff73889bd">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>tooth</text></gloss>
+<trait name ="semantic-domain-ddp4" value="2.1.1.5 Tooth"/>
+</sense>
+</entry>
+<entry dateCreated="2017-03-22T03:40:01Z" dateModified="2017-03-22T03:43:17Z" id="Tronco del cuerpo_a36717bd-1ab2-4012-8fd2-187788fdb06b" guid="a36717bd-1ab2-4012-8fd2-187788fdb06b">
+<lexical-unit>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<citation>
+<form lang="es"><text>Tronco del cuerpo</text></form>
+</citation>
+<sense id="70171599-426c-4163-825a-2b8c611d961d">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>Torso</text></gloss>
+<trait name ="semantic-domain-ddp4" value="2.1.2 Torso"/>
+</sense>
+</entry>
+<entry dateCreated="2017-03-22T03:40:19Z" dateModified="2017-03-22T03:43:17Z" id="Brazo_6267288c-2b93-4906-9670-1c4811fbe9f5" guid="6267288c-2b93-4906-9670-1c4811fbe9f5">
+<lexical-unit>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="es"><text>Brazo</text></form>
+</citation>
+<sense id="044a8d14-80c9-4ab1-93da-61b6c7637f71">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>arm</text></gloss>
+<trait name ="semantic-domain-ddp4" value="2.1.3.1 Arm"/>
+</sense>
+</entry>
+<entry dateCreated="2017-03-22T03:40:41Z" dateModified="2017-03-22T03:43:17Z" id="Pierna_325630ce-dd46-4538-a951-50d139f3bc6f" guid="325630ce-dd46-4538-a951-50d139f3bc6f">
+<lexical-unit>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="es"><text>Pierna</text></form>
+</citation>
+<sense id="231cfd32-0594-4633-b985-85a51fee57d1">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="es"><text>leg</text></gloss>
+<gloss lang="en"><text>leg</text></gloss>
+<trait name ="semantic-domain-ddp4" value="2.1.3.2 Leg"/>
+</sense>
+</entry>
+<entry dateCreated="2017-03-22T03:41:12Z" dateModified="2017-03-22T03:41:12Z" id="Dedos de la mano_ce16e8d5-818a-4fa9-b042-4e6223f99753" guid="ce16e8d5-818a-4fa9-b042-4e6223f99753">
+<lexical-unit>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<citation>
+<form lang="es"><text>Dedos de la mano</text></form>
+</citation>
+<sense id="6fee09f1-5ff7-471a-94ad-00a6b5b0be34">
+<gloss lang="en"><text>Finger</text></gloss>
+<trait name ="semantic-domain-ddp4" value="2.1.3.3 Finger, toe"/>
+</sense>
+</entry>
+<entry dateCreated="2017-03-22T03:41:31Z" dateModified="2017-03-22T03:41:31Z" id="Dedos del pie_4e62bbbd-e011-432a-a28b-9fc3347e3228" guid="4e62bbbd-e011-432a-a28b-9fc3347e3228">
+<lexical-unit>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<citation>
+<form lang="es"><text>Dedos del pie</text></form>
+</citation>
+<sense id="a6cbfbe0-1ab0-424c-8a7e-44f45fde2924">
+<gloss lang="en"><text>toe</text></gloss>
+<trait name ="semantic-domain-ddp4" value="2.1.3.3 Finger, toe"/>
+</sense>
+</entry>
+<entry dateCreated="2017-03-22T03:41:49Z" dateModified="2017-03-22T03:43:17Z" id="Pelo_4694cf94-8b3b-4636-89b9-6d1c1f7e0984" guid="4694cf94-8b3b-4636-89b9-6d1c1f7e0984">
+<lexical-unit>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="es"><text>Pelo</text></form>
+</citation>
+<sense id="c538553f-60dc-41a2-8167-6e4ddd731054">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>Hair</text></gloss>
+<trait name ="semantic-domain-ddp4" value="2.1.5 Hair"/>
+</sense>
+</entry>
+<entry dateCreated="2017-03-22T03:42:04Z" dateModified="2017-03-22T03:43:17Z" id="piel_8503f539-eae6-4cbc-9d96-540746d9bdcb" guid="8503f539-eae6-4cbc-9d96-540746d9bdcb">
+<lexical-unit>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<citation>
+<form lang="es"><text>piel</text></form>
+</citation>
+<sense id="ca69edb0-f376-4d12-a603-2e8a714a04e4">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>skin</text></gloss>
+<trait name ="semantic-domain-ddp4" value="2.1.4 Skin"/>
+</sense>
+</entry>
+</lift>
